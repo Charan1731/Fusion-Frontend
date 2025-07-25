@@ -20,13 +20,6 @@ import {
   ArrowUpRight,
   BarChart2,
   TrendingUp,
-<<<<<<< HEAD
-=======
-  Clock,
-  Users,
-  Bookmark,
-  AlertCircle
->>>>>>> 6be062674fc1264f6bc30fb31780a1bdd092ea09
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { Recipe, RecipeCardSkeleton } from '../components/RecipeCard';
